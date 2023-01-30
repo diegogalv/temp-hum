@@ -1,5 +1,5 @@
 {
-    "name": "temp-hum",
+    "name": "temp-humf",
     "description": "",
     "dependencies": {
         "core": "*",
